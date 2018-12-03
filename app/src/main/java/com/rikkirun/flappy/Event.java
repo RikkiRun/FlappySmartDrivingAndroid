@@ -1,4 +1,5 @@
 package com.rikkirun.flappy;
+//create a class to save all information from event (title, address and description)
 
 public class Event {
     //all data from an event

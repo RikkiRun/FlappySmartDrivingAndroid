@@ -3,6 +3,7 @@ package com.rikkirun.flappy;
 import java.util.ArrayList;
 import java.util.List;
 
+// generate a list of event date for listview
 public class DataService {
 
     public static List<Event> getEventData() {

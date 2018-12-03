@@ -11,6 +11,8 @@ import org.w3c.dom.Text;
 
 import java.util.List;
 
+//matches listview with a list view child view
+
 public class EventAdapter extends BaseAdapter{
     Context context;
     List<Event> eventData;
